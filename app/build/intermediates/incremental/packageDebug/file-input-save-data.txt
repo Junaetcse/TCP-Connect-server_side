@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Tue Nov 14 14:53:35 BDT 2017
+2.base=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1752eda9eabc200c0e4c1de05ec4845974979b14
+5.file=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\mm_list.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+2.set=DEX
+4.base=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f8ad78a98a0de975850f7e63ae0649080f643289
+7.file=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+7.set=ANDROID_RESOURCE
+count=9
+0.file=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.set=DEX
+6.base=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1752eda9eabc200c0e4c1de05ec4845974979b14\\classes.dex
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\mm_list_row.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f8ad78a98a0de975850f7e63ae0649080f643289\\classes.dex
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

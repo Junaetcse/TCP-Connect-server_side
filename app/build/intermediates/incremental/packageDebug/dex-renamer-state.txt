@@ -1,0 +1,7 @@
+#Tue Nov 14 14:53:34 BDT 2017
+base.0=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1752eda9eabc200c0e4c1de05ec4845974979b14
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f8ad78a98a0de975850f7e63ae0649080f643289\\classes.dex
+base.1=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f8ad78a98a0de975850f7e63ae0649080f643289
+file.0=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1752eda9eabc200c0e4c1de05ec4845974979b14\\classes.dex

@@ -1,0 +1,4 @@
+#Mon Nov 13 12:42:30 BDT 2017
+base.0=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=C\:\\Users\\USER\\AndroidStudioProjects\\itconquest-itc-bell-app-server-c48c9093f5e4\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex
